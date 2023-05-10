@@ -1,2 +1,2 @@
 # Projet-Compilation
-Un compilateur comportant un Analyseur Lexicale, Syntaxique et Sémantique utilisant la langage java et générant un code C++
+A compiler including a Lexical, Syntactic and Semantic Analyzer using the java language and generating a C++ code
